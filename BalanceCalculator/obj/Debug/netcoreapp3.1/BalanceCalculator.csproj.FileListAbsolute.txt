@@ -1,0 +1,14 @@
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.exe
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.deps.json
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.runtimeconfig.json
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.runtimeconfig.dev.json
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.dll
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\bin\Debug\netcoreapp3.1\BalanceCalculator.pdb
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.csproj.AssemblyReference.cache
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.AssemblyInfoInputs.cache
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.AssemblyInfo.cs
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.dll
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.pdb
+C:\Users\joaon\source\repos\BalanceCalculator\BalanceCalculator\obj\Debug\netcoreapp3.1\BalanceCalculator.genruntimeconfig.cache
